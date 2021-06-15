@@ -1,0 +1,9 @@
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\bin\Release\CodeAutoReader.exe.config
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\bin\Release\CodeAutoReader.exe
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\bin\Release\CodeAutoReader.pdb
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Release\CodeAutoReader.Form1.resources
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Release\CodeAutoReader.Properties.Resources.resources
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Release\CodeAutoReader.csproj.GenerateResource.cache
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Release\CodeAutoReader.csproj.CoreCompileInputs.cache
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Release\CodeAutoReader.exe
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Release\CodeAutoReader.pdb

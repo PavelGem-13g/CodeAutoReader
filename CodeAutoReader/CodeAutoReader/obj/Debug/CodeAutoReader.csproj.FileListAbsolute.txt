@@ -8,3 +8,13 @@ C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\obj\Debug\CodeAuto
 C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\obj\Debug\CodeAutoReader.csproj.CoreCompileInputs.cache
 C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\obj\Debug\CodeAutoReader.exe
 C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\obj\Debug\CodeAutoReader.pdb
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\bin\Debug\CodeAutoReader.exe.config
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\bin\Debug\CodeAutoReader.exe
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\bin\Debug\CodeAutoReader.pdb
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Debug\CodeAutoReader.csprojAssemblyReference.cache
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Debug\CodeAutoReader.Form1.resources
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Debug\CodeAutoReader.Properties.Resources.resources
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Debug\CodeAutoReader.csproj.GenerateResource.cache
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Debug\CodeAutoReader.csproj.CoreCompileInputs.cache
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Debug\CodeAutoReader.exe
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Debug\CodeAutoReader.pdb
