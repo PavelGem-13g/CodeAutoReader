@@ -7,3 +7,8 @@ C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj
 C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Release\CodeAutoReader.csproj.CoreCompileInputs.cache
 C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Release\CodeAutoReader.exe
 C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Release\CodeAutoReader.pdb
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\bin\Release\CodeAutoReader.exe.manifest
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\bin\Release\CodeAutoReader.application
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Release\CodeAutoReader.csprojAssemblyReference.cache
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Release\CodeAutoReader.exe.manifest
+C:\Users\pashe\Documents\GitHub\CodeAutoReader\CodeAutoReader\CodeAutoReader\obj\Release\CodeAutoReader.application

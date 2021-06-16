@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CodeAutoReader.exe" version="1.0.0.1" publicKeyToken="efecdb40a292059a" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CodeAutoReader" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CodeAutoReader.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CodeAutoReader.exe" size="11688">
+      <assemblyIdentity name="CodeAutoReader" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>PgF4bCVphXVzXsTuZD1GS6JltG0sGjWJuKlqQ2dRZdM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CodeAutoReader.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=PABLO\pashe" issuerKeyHash="7079f824c555adf0e07a0863eaa2c66cce0eabae" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>yit9mWEAn9lKcLGL7/ZfKkR1F8CnHl5UmguvSEdgiEo=</DigestValue></Reference></SignedInfo><SignatureValue>fsSr6l7prKRZC7fUiuWfT/l1m0j2YOrQYuyy+UUZuOighTn2VimbI4ycmiWSUEkaAZME3PcFwyFf+OPAaMtMbgGI/bwa+prPikNZrAgcwwWddyGz8dPirEAToF2HiyKm/cvatvHdnEr/Lbz01h/Ndl7e/qbj2P09/Kl59r/G6dc=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wI8/opDf0cUza3RtMPL02MSAmtmS61cvP97sAS0r0D5Iz9Jc13cBg6rtuWsBljkiXlRo4XgI2SWQwMPm9sKGKH+bc8RzVoEzlZM+F7LmTHOeWBA/5Q/LWFJj7MJIiycWr5PYor6qrqXnYRHVBh7rl7pANQ338OTuG7L/EUEzpuU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4a88604748af0b9a545e1ea7c01775442a5ff6ef8bb1704ad99f0061997d2bca" Description="" Url=""><as:assemblyIdentity name="CodeAutoReader.exe" version="1.0.0.1" publicKeyToken="efecdb40a292059a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=PABLO\pashe</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>Wi9qDiNW32kHs0qPtVhUv8a5p9fGRg+kSFb+IWmbjnY=</DigestValue></Reference></SignedInfo><SignatureValue>NiXf385DpsoiWwGYQoFo4Dec0Q9gRttpFyZPvN2zb44TFgOC7/DwqtwMG/50/a3Fqm9o9xhKNNZ4zC7lFn3LnL9AxmlpR12HRg5pWmR3tixcLvgE4NrWoDBb85E9Gf+g9BNXa+XelmXav76qulkPR7tQK4bUJkK7Z6H/Watweo4=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wI8/opDf0cUza3RtMPL02MSAmtmS61cvP97sAS0r0D5Iz9Jc13cBg6rtuWsBljkiXlRo4XgI2SWQwMPm9sKGKH+bc8RzVoEzlZM+F7LmTHOeWBA/5Q/LWFJj7MJIiycWr5PYor6qrqXnYRHVBh7rl7pANQ338OTuG7L/EUEzpuU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBxTCCAS6gAwIBAgIQdzQJRZt7GYdHSBVRraJe5TANBgkqhkiG9w0BAQsFADAhMR8wHQYDVQQDHhYAUABBAEIATABPAFwAcABhAHMAaABlMB4XDTIxMDYxNTE2NTIzNloXDTIyMDYxNTIyNTIzNlowITEfMB0GA1UEAx4WAFAAQQBCAEwATwBcAHAAYQBzAGgAZTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAwI8/opDf0cUza3RtMPL02MSAmtmS61cvP97sAS0r0D5Iz9Jc13cBg6rtuWsBljkiXlRo4XgI2SWQwMPm9sKGKH+bc8RzVoEzlZM+F7LmTHOeWBA/5Q/LWFJj7MJIiycWr5PYor6qrqXnYRHVBh7rl7pANQ338OTuG7L/EUEzpuUCAwEAATANBgkqhkiG9w0BAQsFAAOBgQBk3Yv4qQSvCx6FcHR9LZ5QiGCzNVyUF1DUvnZMsaztcIooV4QTZjgDdB3TthrJ/qMcP/4lL+rMArjwcjtG2Z2NtO3P/nQBSPqVPs9QvGHj2pJ+xQWedMnuCTAiMAnLCBpQrU1Q27KaZu8JN/GrAn/0Jm0TP5VtY/dIIXeVus1DqA==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
