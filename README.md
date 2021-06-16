@@ -1,2 +1,2 @@
 # CodeAutoReader
-This project automatically reads code from all project directory 
+This project automatically reads code from all project directories
